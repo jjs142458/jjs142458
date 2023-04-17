@@ -5,7 +5,7 @@
 
 
 <div align='center'> Email : sosorry1424@gmail.com</div>
-<div align='center'> Blog : <a href="https://https://velog.io/@jjs142458">https://velog.io/@jjs142458</a></div>
+<div align='center'> Blog : <a href="https://velog.io/@jjs142458">https://velog.io/@jjs142458</a></div>
 
 
 
