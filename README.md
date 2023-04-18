@@ -4,7 +4,7 @@
 
  # 🐳About Me🐳
 다양한 분야를 두루두루 잘하는 개발자가 되는 것을 지향하고 있습니다. </br> </br>
- <a href="https://www.notion.so/4b3e258e478c4b7d960daf2935f6641a"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a>
+ <a href="https://solstice-licorice-e1b.notion.site/4b3e258e478c4b7d960daf2935f6641a"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a>
  
  
  ## ⭐️Language
