@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Jaesung's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
  </p>
 
-
+<div align="center"> 백엔드 분야에 관심이 있는 고등학교 개발자입니다.<div>
 <div align='center'> Email : sosorry1424@gmail.com</div>
 <div align='center'> Blog : <a href="https://velog.io/@jjs142458">https://velog.io/@jjs142458</a></div>
 
